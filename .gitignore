@@ -1,0 +1,4 @@
+data/*.tif
+data/*.csv
+output/*.png
+output/*.csv
